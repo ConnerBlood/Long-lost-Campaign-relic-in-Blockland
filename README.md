@@ -1,1 +1,3 @@
-I love github required 25MB instead of bigger files
+I love github required 25MB instead of bigger files.
+Also download them Dragon .zip files to Add-Ons File and drag .ogg to Music File.
+Full advice put the Dixmiggie.bls in save File.
